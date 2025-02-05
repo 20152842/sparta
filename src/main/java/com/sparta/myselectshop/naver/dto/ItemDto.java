@@ -18,4 +18,5 @@ public class ItemDto {
         this.image = itemJson.getString("image");
         this.lprice = itemJson.getInt("lprice");
     }
+    //
 }
